@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# Covid Tweets Sentiment Analysis
 This project implements a Twitter Sentiment Analysis system focused on detecting help-seeking tweets related to oxygen during the COVID-19 pandemic. Due to a small percentage of labeled data, the project leverages a semi-supervised learning approach and explores various machine learning models, including the advanced BERT transformer model.
 
 ## Project Overview
