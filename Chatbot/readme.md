@@ -42,7 +42,7 @@ Make sure you have Python 3.7 or higher installed on your system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot.git
+git clone <repo-url>
 cd ai-chatbot
 ```
 
