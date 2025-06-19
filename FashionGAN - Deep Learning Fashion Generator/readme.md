@@ -164,16 +164,14 @@ plt.show()
 ## 📁 Project Structure
 
 ```
-fashiongan-generator/
+FashionGan-Deep Learning Fashion Generator/
 ├── FashionGAN.ipynb           # Main training notebook
-├── generator.h5               # Trained generator model
-├── discriminator.h5           # Trained discriminator model
-├── images/                    # Generated images during training
+├── generator.h5               # Trained generator model(generated after running)
+├── discriminator.h5           # Trained discriminator model(generated after running)
+├── images/                    # Generated images during training(generated during training)
 │   ├── generated_img_0_0.png
 │   ├── generated_img_1_0.png
 │   └── ...
-├── archive/                   # Model backups
-│   └── generatormodel.h5
 └── README.md                  # This file
 ```
 
