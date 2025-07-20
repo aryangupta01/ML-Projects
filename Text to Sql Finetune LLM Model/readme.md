@@ -2,6 +2,8 @@
 
 A comprehensive implementation for fine-tuning a language model to convert natural language questions into SQL queries using Low-Rank Adaptation (LoRA) technique.
 
+Find the colab notebook here - https://colab.research.google.com/drive/1_voQ05_wNjWlz7HWj94XXHQ_V5hrqdNd#scrollTo=1dASKTV2LNoS
+
 ## 🚀 Overview
 
 This project demonstrates how to fine-tune the **Qwen3-0.6B** language model to translate natural language questions into SQL queries. The implementation uses Parameter Efficient Fine-Tuning (PEFT) with LoRA (Low-Rank Adaptation) to achieve efficient training while maintaining model performance.
